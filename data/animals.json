@@ -117,6 +117,16 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Daren",
+      "species": "lion",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "anxious",
+        "goofy"
+      ],
+      "id": "12"
     }
   ]
 }
